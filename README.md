@@ -1,2 +1,2 @@
 # PizzariaOak
-Com um toque de carvalho, para lhe tranquilizar enquanto come
+Um projeto asp.net para treinamento.
